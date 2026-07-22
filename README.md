@@ -1,7 +1,12 @@
 # Google-Workspace-Essentials
 Google Workspace Essentials
 
-<h1>Create a User</h1>
+<img width="817" height="2364" alt="Screenshot_22-7-2026_102527_support google com" src="https://github.com/user-attachments/assets/8f2d11c8-acd3-460a-9481-4fe106036b75" />
+
+
+
+
+<h1>Differences between</h1>
 </p>
 <p>
 A Google Workspace user account provides an individual with secure access to Google Workspace services such as Gmail, Google Drive, Google Calendar, Google Meet, and Google Docs. User accounts allow administrators to assign licenses, enforce security policies, manage storage, control access to organizational resources, and authenticate users across Google services.
